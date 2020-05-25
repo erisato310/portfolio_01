@@ -1,4 +1,4 @@
-<mxfile host="" modified="2020-05-25T17:15:24.321Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.45.1 Chrome/78.0.3904.130 Electron/7.2.4 Safari/537.36" etag="nWAtNy0PFXh5hb7ym32r" version="13.1.3">
+<mxfile host="" modified="2020-05-25T17:22:00.746Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.45.1 Chrome/78.0.3904.130 Electron/7.2.4 Safari/537.36" etag="ixVd1_wp8nDDKemndAoF" version="13.1.3">
     <diagram id="6hGFLwfOUW9BJ-s0fimq" name="Page-1">
         <mxGraphModel dx="968" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
             <root>
@@ -17,7 +17,7 @@
                     <mxGeometry x="40" y="680" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="5" value="&lt;font color=&quot;#000000&quot;&gt;about me&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
-                    <mxGeometry x="40" y="350" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="40" y="349" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="6" value="&lt;font color=&quot;#000000&quot;&gt;表紙イラスト&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#36393d;" vertex="1" parent="1">
                     <mxGeometry x="180" y="80" width="250" height="250" as="geometry"/>
@@ -87,9 +87,6 @@
                 </mxCell>
                 <mxCell id="35" value="&lt;font color=&quot;#000000&quot;&gt;イベント企画&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#36393d;" vertex="1" parent="1">
                     <mxGeometry x="600" y="750" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="36" value="&lt;font color=&quot;#000000&quot;&gt;ウェビナー&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#36393d;" vertex="1" parent="1">
-                    <mxGeometry x="740" y="750" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="38" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;お問合せ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
                     <mxGeometry x="40" y="820" width="120" height="60" as="geometry"/>
